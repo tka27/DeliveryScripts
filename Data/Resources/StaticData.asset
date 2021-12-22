@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 895008262b089ae4ea78fcb6be845414, type: 3}
+  m_Name: StaticData
+  m_EditorClassIdentifier: 
+  availableProductTypes: 000000000100000007000000
+  trailPrefab: {fileID: 4358420240384892957, guid: dfb17e74df2964048829f3bc067ebecb, type: 3}
+  tutorialPrefab: {fileID: 1555078184416014041, guid: 9a382c26981a9b141b54e4f0cd153b9d, type: 3}
+  deerMaleRD: {fileID: 3360702704581171551, guid: 3ee0938a59699a04e8d794b73a3e9677, type: 3}
+  deerFemRD: {fileID: 3360702704581171551, guid: a325a972af7e66a43a4096f661949b58, type: 3}
+  currentMoney: 100
+  moneyForGame: 100
+  selectedCarID: 0
+  selectedMapID: 0
+  trailerIsSelected: 0
+  allCars:
+  - {fileID: 4430766651677897550, guid: 4f4c804afdfe12d43ac411ad1b2ce925, type: 3}
+  - {fileID: 8527134890977156259, guid: 6a671c85f37436e46ac4189a001dde59, type: 3}
+  - {fileID: 8393939636788457002, guid: 25d6379ebe7720b4ebe5d5c52d900f69, type: 3}
+  - {fileID: 54362875432017996, guid: f5ca115ed4634574291a1ee157f29022, type: 3}
+  - {fileID: 411334465248924516, guid: e97ed880e0a70db49ae880d45e7291cc, type: 3}
+  adProgress: 0
+  totalMoney: 750
+  researchLvl: 0
+  carsUnlockStatus: 0100000000
+  carsBuyStatus: 0100000000
+  trailersBuyStatus: 0000000000
